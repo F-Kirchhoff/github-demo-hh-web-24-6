@@ -18,3 +18,5 @@
 3. third
 
 [neuefische website](https://neuefische.de)
+
+![image of a duckling](./duckling-1563128_1920.jpg)
